@@ -46,5 +46,6 @@ public class Main
             System.out.println(trash + " is not a valid number");
             System.exit(0);
         }
+
     }
 }
